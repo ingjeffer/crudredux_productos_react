@@ -1,0 +1,293 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": [
+        "400"
+      ]
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 6
+    },
+    {
+      "nombre": "carro",
+      "precio": 2,
+      "id": 7
+    },
+    {
+      "nombre": "carro",
+      "precio": 2,
+      "id": 8
+    },
+    {
+      "nombre": "carro",
+      "precio": 2,
+      "id": 9
+    },
+    {
+      "nombre": "carro",
+      "precio": 2,
+      "id": 10
+    },
+    {
+      "nombre": "carro",
+      "precio": [
+        "2"
+      ],
+      "id": 13
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 14
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 15
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 16
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 17
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 18
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 19
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 20
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 21
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 22
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 23
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 24
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 25
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 26
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 27
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 28
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 29
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 30
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 31
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 32
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 33
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 34
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 35
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 36
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 37
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 38
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 39
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 40
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 41
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 42
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 43
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 44
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 45
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 46
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 47
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 48
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 49
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 50
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 51
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 52
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 53
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 54
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 55
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 56
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 57
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 58
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 59
+    },
+    {
+      "nombre": "carro",
+      "precio": 1,
+      "id": 60
+    }
+  ]
+}
